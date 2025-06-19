@@ -2,7 +2,7 @@
 
 Sistem ini adalah aplikasi desktop sederhana berbasis Java yang terhubung ke database MySQL untuk mengelola perpustakaan. Proyek ini mencakup fitur seperti peminjaman buku, pengembalian, pengelolaan denda, laporan, dan riwayat transaksi.
 
-Nama Anggota Kelompok 3
+## Nama Anggota Kelompok 3
 1. Ganesha Setiawan (24082010092)
 2. Putu Pramudya Pratama (24082010113)
 3. Sulthan Valeri Osmond Risqullah (24082010119)
